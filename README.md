@@ -1,3 +1,3 @@
 # practice-2
 # just pratice to improve my knowledge
-<img src="resullt1.jpg">
+<img src="resullt1.JPG">
